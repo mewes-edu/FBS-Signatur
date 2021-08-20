@@ -1,2 +1,2 @@
 # FBS-Signatur
-Eine HTML-Datei für die Mailsignatur der FBS nebst Anleitungen zum Einfügen in diverse Mailer und die erforderlichen Bilddateien
+HTML-Dateien für diverse Mailer mit der (modifizierten) Mailsignatur der FBS nebst Anleitungen zum Einfügen und den erforderlichen Bilddateien
